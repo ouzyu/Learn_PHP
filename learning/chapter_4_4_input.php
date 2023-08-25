@@ -4,8 +4,10 @@
 <form action="chapter_4_4_output.php" method="post">
     <select name="count">
         <?php
-        for ($i = 0; $i < 10; $i++) {
+        $i = 0;
+        while ($i < 10) {
             echo '<option value="', $i, '">', $i, '</option>';
+            $i++;
         }
         ?>
     </select>
