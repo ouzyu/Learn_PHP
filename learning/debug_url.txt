@@ -1,1 +1,1 @@
-http://localhost/php/learning/chapter_x_x_input.php
+http://localhost/php/learning/chapterx/chapter_x_x_input.php
